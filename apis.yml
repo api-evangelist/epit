@@ -32,7 +32,7 @@ x-tier-reason: portfolio-lead
 x-status: exited
 x-status-source: https://www.battery.com/list-of-all-companies/
 x-api-surface: none
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-20'
 tags:
